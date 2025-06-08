@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:magma_cream" },
+    { "item": "minecraft:shears" }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:slimeball"
+  }
+}
