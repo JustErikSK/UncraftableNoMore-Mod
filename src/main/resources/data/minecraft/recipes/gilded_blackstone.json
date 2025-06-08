@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blackstone"
+    },
+    "B": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "minecraft:gilded_blackstone"
+  }
+}
