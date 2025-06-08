@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "xDC",
-    "xBx",
-    "Axx"
+    " DC",
+    " B ",
+    "A  "
   ],
   "key": {
     "A": {
