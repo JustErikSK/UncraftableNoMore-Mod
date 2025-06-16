@@ -2,16 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "A A",
+    "ACA",
     "ABA",
     " A "
   ],
   "key": {
     "A": {
-      "item": "minecraft:leather"
+      "item": "minecraft:iron_ingot"
     },
     "B": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "minecraft:leather_horse_armor"
     }
   },
   "result": {

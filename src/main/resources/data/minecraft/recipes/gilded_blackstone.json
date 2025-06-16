@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    " B ",
-    "BAB",
-    " B "
+    "BCB",
+    "CAC",
+    "BCB"
   ],
   "key": {
     "A": {
@@ -12,6 +12,9 @@
     },
     "B": {
       "item": "minecraft:gold_nugget"
+    },
+    "C": {
+      "item": "minecraft:gold_ingot"
     }
   },
   "result": {
