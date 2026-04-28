@@ -2,20 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "  A",
-    " B ",
-    "   "
+    "AAA",
+    "ABA",
+    "AAA"
   ],
   "key": {
     "A": {
-      "tag": "uncraftablenomore:nuggets"
+      "item": "minecraft:chiseled_stone_bricks"
     },
     "B": {
-      "item": "minecraft:paper"
+      "item": "minecraft:iron_nugget"
     }
   },
   "result": {
     "count": 1,
-    "item": "minecraft:name_tag"
+    "item": "minecraft:lodestone"
   }
 }
