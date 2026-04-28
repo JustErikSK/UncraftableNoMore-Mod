@@ -1,6 +1,6 @@
 Add recipes for vanilla items that are not meant to be crafted!
 
-In order to use this mod, you need Minecraft version 1.20.1 and Forge (47.4.0 is recommended)
+In order to use this mod, you need Minecraft version 1.20.1 and Forge (47.4.0 or above is recommended)
 
 ## Current recipes:
 - Bell
