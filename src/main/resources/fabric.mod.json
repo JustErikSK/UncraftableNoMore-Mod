@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "uncraftablenomore",
+	"version": "${version}",
+	"name": "Uncraftable No More",
+	"description": "Add some forgotten recipes to your game!",
+	"authors": [
+		"JustErikSK",
+		"With Rage Studios"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/uncraftable-no-more",
+		"issues": "https://github.com/JustErikSK/UncraftableNoMore-Mod/issues",
+		"sources": "https://github.com/JustErikSK/UncraftableNoMore-Mod"
+	},
+	"license": "MIT",
+	"icon": "assets/uncraftablenomore/uncraftablenomore-icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.withrage.uncraftablenomore.UncraftableNoMore"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
