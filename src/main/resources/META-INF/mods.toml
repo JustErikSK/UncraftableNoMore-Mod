@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[64,)"
+license="MIT"
+[[mods]]
+modId="uncraftablenomore"
+version="1.0.5"
+displayName="Uncraftable No More"
+authors="JustErikSK, With Rage Studios"
+description='''Want to craft items that were not originally craftable? This mod does just that!'''
+[[dependencies.uncraftablenomore]]
+    modId="forge"
+    mandatory=true
+    versionRange="[64,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.uncraftablenomore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.1.2,26.2,)"
+    ordering="NONE"
+    side="BOTH"

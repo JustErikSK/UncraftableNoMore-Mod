@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": "minecraft:phantom_membrane",
+    "B": "minecraft:netherite_ingot",
+    "C": "minecraft:feather",
+    "D": "minecraft:ender_eye",
+    "E": "minecraft:dragon_breath"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

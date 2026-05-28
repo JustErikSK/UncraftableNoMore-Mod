@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BC ",
+    "   "
+  ],
+  "key": {
+    "A": "minecraft:prismarine_shard",
+    "B": "minecraft:bone",
+    "C": "minecraft:dripstone_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:nautilus_shell"
+  }
+}
