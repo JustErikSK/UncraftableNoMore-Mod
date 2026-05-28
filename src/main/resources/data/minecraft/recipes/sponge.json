@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:dried_kelp"
+    },
+    "B": {
+      "tag": "minecraft:wool"
+    },
+    "C": {
+      "tag": "uncraftablenomore:coral_blocks"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "minecraft:sponge"
+  }
+}

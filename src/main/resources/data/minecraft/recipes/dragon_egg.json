@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "minecraft:dragon_head"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "minecraft:dragon_egg"
+  }
+}
