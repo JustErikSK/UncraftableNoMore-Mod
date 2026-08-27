@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:black_dye",
+    "B": "minecraft:rose_bush"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:wither_rose"
+  }
+}
