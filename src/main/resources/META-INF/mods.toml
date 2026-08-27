@@ -3,7 +3,7 @@ loaderVersion="[65,)"
 license="MIT"
 [[mods]]
 modId="uncraftablenomore"
-version="1.0.6"
+version="1.0.7"
 displayName="Uncraftable No More"
 authors="JustErikSK, With Rage Studios"
 description='''Want to craft items that were not originally craftable? This mod does just that!'''
