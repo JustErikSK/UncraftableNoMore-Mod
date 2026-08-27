@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "ABA",
+    " C "
+  ],
+  "key": {
+    "A": "minecraft:gold_ingot",
+    "B": "minecraft:paper",
+    "C": "minecraft:gilded_blackstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:piglin_banner_pattern"
+  }
+}
