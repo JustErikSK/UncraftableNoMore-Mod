@@ -4,16 +4,27 @@ In order to use this mod, you need Minecraft version 1.20.1 and Forge (47.4.0 or
 
 ## Current recipes:
 - Bell
+- Brown Dye
 - Brown Mushroom Block
 - Cobweb
+- Copper Horse Armor
+- Copper Nautilus Armor
 - Crying Obsidian
 - Chainmail Armor
 - Diamond Horse Armor
+- Diamond Nautilus Armor
+- Dragon Egg
+- Dragon Head
+- Elytra
 - Enchanted Golden Apple
 - Gilded Blackstone
 - Golden Horse Armor
+- Golden Nautilus Armor
+- Green Dye
 - Iron Horse Armor
+- Iron Nautilus Armor
 - Large Fern
+- Lodestone
 - Mushroom Stem
 - Name Tag
 - Nautilus Shell
