@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BCB",
+    "CAC",
+    "BCB"
+  ],
+  "key": {
+    "A": "minecraft:blackstone",
+    "B": "minecraft:gold_nugget",
+    "C": "minecraft:gold_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:gilded_blackstone"
+  }
+}

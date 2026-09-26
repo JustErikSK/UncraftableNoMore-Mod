@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:diamond",
+    "B": "minecraft:leather",
+    "C": "minecraft:nautilus_shell"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_nautilus_armor"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " CB",
+    " AC",
+    "A  "
+  ],
+  "key": {
+    "A": "minecraft:prismarine_shard",
+    "B": "minecraft:diamond",
+    "C": "minecraft:iron_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  }
+}
