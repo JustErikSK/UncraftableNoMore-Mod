@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:rotten_flesh",
+    "B": "minecraft:potato"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato"
+  }
+}

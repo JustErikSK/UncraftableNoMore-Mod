@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  A",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "A": "#uncraftablenomore:nuggets",
+    "B": "minecraft:paper"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:name_tag"
+  }
+}

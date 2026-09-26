@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BAB",
+    "ABA",
+    "BAB"
+  ],
+  "key": {
+    "A": "minecraft:brown_mushroom",
+    "B": "minecraft:red_mushroom"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:mushroom_stem"
+  }
+}

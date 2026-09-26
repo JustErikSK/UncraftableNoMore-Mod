@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:copper_ingot",
+    "B": "minecraft:leather",
+    "C": "minecraft:leather_horse_armor"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_horse_armor"
+  }
+}
