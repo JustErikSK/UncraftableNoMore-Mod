@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A A",
+    "B B",
+    "   "
+  ],
+  "key": {
+    "A": "minecraft:iron_chain",
+    "B": "minecraft:iron_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:chainmail_boots"
+  }
+}
